@@ -2,6 +2,7 @@
 layout: default
 title: Projects
 resource: true
+permalink: /projects/
 ---
 
 ### Current Projects

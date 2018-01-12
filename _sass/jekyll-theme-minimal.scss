@@ -136,6 +136,25 @@ header ul a {
   height:30px;
 }
 
+footer ul {
+  list-style:none;
+  height:30px;
+  padding:0;
+  width:270px;
+}
+footer li {
+  width:130px;
+  float:left;
+  height:40px;
+}
+footer ul a {
+  line-height:1;
+  display:block;
+  text-align:center;
+  padding-top:10px;
+  height:30px;
+}
+
 header ul a:hover, header ul a:focus {
   color:#675C5C;
 }
